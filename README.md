@@ -9,6 +9,5 @@ https://tajns5n3pscxt39fkhatbx.streamlit.app/
 https://tajns5n3pscxt39fkhatbx.streamlit.app/
 
 git add README.md
-git commit -m "Add live app link to README"
+git commit -m "Switch to ledger-based tracking (sessions/tasks/scores/export-import)"
 git push
-
