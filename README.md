@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+
+git add requirements.txt
+git commit -m "Add requirements file"
+git push
