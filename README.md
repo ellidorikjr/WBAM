@@ -7,3 +7,8 @@ https://tajns5n3pscxt39fkhatbx.streamlit.app/
 - The app is the source of truth.
 - Export/Import progress JSON at the end of each session.
 https://tajns5n3pscxt39fkhatbx.streamlit.app/
+
+git add README.md
+git commit -m "Add live app link to README"
+git push
+
